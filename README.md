@@ -1,17 +1,17 @@
-## Hi there 👋
+### WELCOME TO MY PAGE 👋👋👋
+My name is Binh-Nguyen THAI. As a Senior Software Engineer at Dassault Systèmes, I work in a Tech Lead–like role, taking ownership of designing and delivering scalable, user-centric web applications using modern technologies such as React.js, Next.js, TypeScript, Tailwind CSS, and AWS.<br>
+## 📫 How to reach me: 
 
-<!--
-**thaibinhnguyen/thaibinhnguyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/binh-nguyen-thai-27a656142/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/thaibinhnguyen) 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thaibinhnguyen)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- <a href="https://github.com/thaibinhnguyen/memory-card-reactjs">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thaibinhnguyen&repo=memory-card-reactjs&theme=radical" />
+</a>    
+<a href="https://github.com/thaibinhnguyen/dev-events-nextjs">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thaibinhnguyen&repo=dev-events-nextjs&theme=merko" />
+</a>
+  
