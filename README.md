@@ -8,7 +8,7 @@ My name is Binh-Nguyen THAI. As a Senior Software Engineer at Dassault Systèmes
 
 <a href="https://github.com/thaibinhnguyen/memory-card-reactjs">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <!-- <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thaibinhnguyen&repo=memory-card-reactjs&theme=radical" /> -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=thaibinhnguyen&repo=memory-card-reactjs&theme=radical" />
 </a>
 <a href="https://github.com/thaibinhnguyen/dev-events-nextjs">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
